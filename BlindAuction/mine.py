@@ -1,6 +1,6 @@
 # how to clear terminal/console "print("\033c", end='')"
 from art import logo
-from os import system,name
+
 print(logo)
 print('WELCOME TO BLIND AUCTION')
 def find_highest_bidder(bidding_record):
